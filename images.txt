@@ -4,5 +4,5 @@
 stilleshan/frps:latest
 stilleshan/frpc:latest
 jxxghp/moviepilot:latest
- kibana:7.12.1
+stilleshan/kibana:7.12.1
 
